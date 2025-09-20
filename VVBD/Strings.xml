@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">VVBD</string>
+    <string name="install_os_title">Instalar Sistema Operacional (Modo Seguro)</string>
+    <string name="install_mod_title">Instalar Android Modificado</string>
+    <string name="import_title">Importar imagem / ZIP</string>
+    <string name="confirm_backup">Antes de continuar faça backup completo. Deseja continuar?</string>
+    <string name="choose_file">Escolha o arquivo (.zip, .img)</string>
+</resources>
